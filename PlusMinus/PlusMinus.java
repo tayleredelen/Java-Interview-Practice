@@ -1,16 +1,10 @@
-//Given an array of integers, calculate the ratios of its elements that are positive, negative,
+package PlusMinus;//Given an array of integers, calculate the ratios of its elements that are positive, negative,
 //and zero. Print the decimal value of each fraction on a new line with  places after the decimal.
 
 
 
 import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.function.*;
-import java.util.regex.*;
 import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
